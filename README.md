@@ -1,10 +1,11 @@
 # utisak-design
 
-Design assets of utisak.com
+Design assets of [utisak.com](https://utisak.com).
 
 ## Folder structure
 
 - [`email-template`](./email-template) - email newsletter template used by mailchimp
+- [`images`](./images) - static assets for current version of utisak website
 
 ## Contributing workflow
 
